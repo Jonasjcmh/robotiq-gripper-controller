@@ -1,0 +1,7 @@
+C:\Users\Jonathan\Google Drive\Haptics\ro'man 2019\gripper control c#\Lucy\Lucy\obj\Debug\Lucy.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Google Drive\Haptics\ro'man 2019\gripper control c#\Lucy\Lucy\bin\Debug\Lucy.exe.config
+C:\Users\Jonathan\Google Drive\Haptics\ro'man 2019\gripper control c#\Lucy\Lucy\bin\Debug\Lucy.exe
+C:\Users\Jonathan\Google Drive\Haptics\ro'man 2019\gripper control c#\Lucy\Lucy\bin\Debug\Lucy.pdb
+C:\Users\Jonathan\Google Drive\Haptics\ro'man 2019\gripper control c#\Lucy\Lucy\obj\Debug\Lucy.exe
+C:\Users\Jonathan\Google Drive\Haptics\ro'man 2019\gripper control c#\Lucy\Lucy\obj\Debug\Lucy.pdb
+C:\Users\Jonathan\Google Drive\Haptics\ro'man 2019\gripper control c#\Lucy\Lucy\obj\Debug\Lucy.csprojAssemblyReference.cache
